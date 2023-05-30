@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Unified translation service wrapper",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ichiohta/awagat-translator"
+  },
   "scripts": {
     "clean": "clean -fdx dist",
     "build": "tsc",
